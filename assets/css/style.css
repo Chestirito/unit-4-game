@@ -1,0 +1,18 @@
+body{
+    background-image: url("../images/background.png");
+}
+.wrap{
+    border: solid rgb(131, 0, 255) 3px;
+    padding: 0 15px;
+    background-color: rgb(255, 255, 255, 95%);
+    
+}
+.borderc{
+    border: solid rgb(131, 0, 255) 1px;
+}
+#title{
+    max-width: 100%;
+}
+#instructions{
+    font-weight: bold;
+}

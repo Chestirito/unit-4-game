@@ -1,5 +1,11 @@
-# unit-4-game
+# Crystal Collector
 
-### I did the crystal collector game
-### Everything should be functional
-### Console logged all the values for each crystal
+## Instructions
+- Game were users try to match the number by clicking on the crystals
+- Crystal values are assigned randomly each round
+
+## Overview
+- Game is functional
+- Made with jQuery
+
+Value for each crystal is console logged
